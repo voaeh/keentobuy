@@ -1,0 +1,12 @@
+<?php
+// Text
+$_['text_title']           = 'บัตรเครดิต / บัตรเดบิต (Authorize.Net)';
+$_['text_credit_card']     = 'รายละเอียดบัตรเครดิต';
+$_['text_wait']            = 'กรุณารอสักครู่!';
+
+// Entry
+$_['entry_cc_owner']       = 'ชื่อผู้ถือบัตร:';
+$_['entry_cc_number']      = 'เลขที่บัตร:';
+$_['entry_cc_expire_date'] = 'วันที่หมดอายุ:';
+$_['entry_cc_cvv2']        = 'รหัสล๊อก (CVV2):';
+?>
